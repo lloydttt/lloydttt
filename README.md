@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @lloydttt
 - 👀 I’m interested in *Software designing、Single chip microcomputer、Robots、AI*  
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-
+- 🌱 I’m currently learning Robots、AI
+- 💞️ Still in university
+- 📫 How to reach me (Maybe I will show later)
+<!---
+Until I become stronger
+--->
 
 
 <!---
