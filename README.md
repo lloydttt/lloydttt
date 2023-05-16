@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Robots、AI
 - 💞️ Still in university
 - 📫 How to reach me (Maybe I will show later)
+- language:EN,CH,JP
 <!---
 Until I become stronger
 --->
