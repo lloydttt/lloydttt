@@ -2,7 +2,7 @@
 - 👀 I’m interested in *Software designing、Single chip microcomputer、Robots、AI*  
 - 🌱 A student currently learning Robots、AI
 - 💞️ Still in university
-- 📫 How to reach me (Maybe I will show later)
+- 📫 [Personal Website](https://lloydttt.github.io/)
 - language:EN,CH,JP
 <!---
 Until I become stronger
